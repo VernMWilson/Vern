@@ -14,6 +14,7 @@ h1{font-family: "Mochiy Pop P One", sans-serif, helvetica;
   border-style: solid;
   border-color:#333333;
   margin:auto;
+  max width:20%;
   padding-right:10px;
   padding-left:10px;
   padding-top:10px;
@@ -82,6 +83,8 @@ p{text-align:left;
         padding-bottom:0px;}
 
 .strattext{display:block;
+  width:43%;
+  max width:600px;
   font-family:arial;
   font-weight:bold;
   background-color:#737373;
@@ -90,6 +93,8 @@ p{text-align:left;
   margin-left: 650px;
   margin-top: 40px;
   margin-bottom:0px;
+  margin-block-start:1em;
+  margin-block-end:1em;
   padding-right:5px;
   padding-left:0px;
   padding-top:5px;
